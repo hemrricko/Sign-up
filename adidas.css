@@ -1,0 +1,16 @@
+input{
+    margin-bottom: 15px;
+    background-color: brown;
+    margin: 10px;
+    border: solid 2px; color: black;
+    border-radius: 5px;
+}
+button{
+    margin-left: 10px;
+}
+div{
+    background-color: aqua;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
